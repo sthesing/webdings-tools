@@ -12,6 +12,9 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
+
+ */
+
 package de.webdings.tools.time;
 
 
@@ -24,7 +27,8 @@ package de.webdings.tools.time;
  * @version 1.0.1 10.08.2005
  * @see EasyDate
  * 
- */
+	 */
+
 public class EasyDateCreateException extends java.lang.Exception {
     /**
 	 * 
